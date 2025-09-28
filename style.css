@@ -6,17 +6,17 @@
 
 /* body */
 body{
-color: aliceblue;
-background-image: linear-gradient(35deg, rgb(63, 158, 199)25%, rgb(29, 89, 142), rgba(31, 78, 172, 0.993));
-
+color: #ffffff;
+background-image: linear-gradient(180deg, #140152, #2f089a, #430dd8) ;
 }
 
 /* header */
 header{
+    color: #ffffff;
     display: flex;
     justify-content: space-between;
-    border-bottom: 10px solid black;
-background-color: rgb(83, 79, 79);
+    border-bottom: 10px solid #04052e;
+background-color: #0d00a4;
 }
 nav{
 text-align: right;
@@ -24,8 +24,8 @@ align-content: center;
 
 }
 nav a {
+    color: #ffffff;
 text-decoration: none;
-color: aliceblue;
 margin-right: 20px;
 font-size: 20px;
 padding: 3px 10px;
