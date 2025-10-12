@@ -20,16 +20,12 @@ header{
     border-bottom: 10px solid #04052e;
 background-color: #0d00a4;
 }
-h1::before{
-    content:"😀";
-}
+
 nav{
 text-align: right;
 align-content: center;
 
 }
-nav::after{
-    content:"😀";}
 
 nav a {
     color: #ffffff;
@@ -45,6 +41,4 @@ nav a:hover{
     background-color: rgb(72, 20, 92);
     color: rgb(72, 154, 226);
 }
-.outrasnoticias:active{
-    transform: scale(0.95);
-}
+
